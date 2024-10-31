@@ -1,0 +1,6 @@
+[package]
+name = "max_flow_Edmonds-Karp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
