@@ -19,3 +19,11 @@ Cargo.lock
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Dev file ignore
+DAA_assignment_5_Dual_Row/src/dual_row_trail.rs
+DAA_assignment_5_Dual_Row/src/dual_row.rs
+DAA_assignment_5_Dual_Row/src/optimal_dual.rs
+DAA_assignment_5_Dual_Row/test_cases/
+dual_row
+optimal_dual

@@ -1,0 +1,6 @@
+[package]
+name = "DAA_assignment_5_Dual_Row"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
